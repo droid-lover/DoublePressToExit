@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DoublePressToExit</string>
+    <string name="action_settings">By JarvisSachin</string>
+    <string name="text_content_descp">Tap back again to exit the application</string>
+</resources>
